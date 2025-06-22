@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/POULA/IdeaProjects/MagentoSprintsTask">
+        <classes>
+            <class name="TestPackage.TestProductSearchInHomePage"/>
+            <class name="TestPackage.AddToCartTest"/>
+            <class name="TestPackage.PaymentTest"/>
+        </classes>
+    </test>
+</suite>
